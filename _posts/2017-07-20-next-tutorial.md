@@ -52,7 +52,8 @@ git clone https://github.com/Simpleyyt/jekyll-theme-next.git
 cd jekyll-theme-next
 ```
 
-Install $$ \sum \limits_{k=1321} $$Jekyll and other dependencies from the GitHub Pages gem:
+Install $$ \sum \limits_{k=1321} $$Jekyll and other dependencies from the GitHub Pages gem caoluyang:
+$$ \sum \limits_{k=1321} $$
 
 ```sh
 bundle install
