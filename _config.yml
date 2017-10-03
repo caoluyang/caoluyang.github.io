@@ -4,17 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-<<<<<<< HEAD
 title: 一生想成为
 subtitle: 
 description: Better To Run Than Curse The Road
 author: Luyang Cao
-=======
-title: 一个浪漫的数据科学家
-subtitle:
-description:
-author: John Doe
->>>>>>> b6d4895fef7043e9c1988e7f1cf572b974807c83
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
