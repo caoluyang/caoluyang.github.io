@@ -45,6 +45,7 @@ gem install bundler
 ```
 
 Clone Jacman theme:
+$$ \sum \limits_{k=1321} $$
 
 ```sh
 git clone https://github.com/Simpleyyt/jekyll-theme-next.git
